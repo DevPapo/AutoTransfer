@@ -1,0 +1,7 @@
+# Configuración del servidor de destino
+# Formato: ip:puerto
+target-server: "play.example.com:19132"
+
+# Mensaje opcional al jugador antes de transferir
+# Dejar vacío para no mostrar mensaje
+transfer-message: "§aConectando al servidor principal..."

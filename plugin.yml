@@ -1,0 +1,6 @@
+name: AutoTransfer
+main: AutoTransfer\AutoTransfer
+api: 5.0.0
+version: 1.0.0
+author: devpapo
+description: Transfiere automáticamente a los jugadores a otro servidor al unirse
